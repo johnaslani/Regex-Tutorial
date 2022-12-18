@@ -20,9 +20,9 @@ This program licensed under [MIT](https://img.shields.io/badge/license-MIT-blue)
 ![Screen shot of completed assignment](???)
 
 
-## Link to deployed application
+## Link to Gist
 
-https://johnaslani.github.io/Weather-Dashboard/
+https://gist.github.com/johnaslani/39e4078628d3e60620d7d9cfa0b5ba60
 
 
 ## Questions
