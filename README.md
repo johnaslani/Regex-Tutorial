@@ -17,12 +17,12 @@ This program licensed under [MIT](https://img.shields.io/badge/license-MIT-blue)
 
 ## Screenshot
 
-![Screen shot of completed assignment](???)
+![Screen shot of completed assignment](./src/Regex%20screenshot.PNG)
 
 
 ## Link to Gist
 
-https://gist.github.com/johnaslani/ce3645a10c92f4c22c5dc824fb05f6ca
+[Link to Gist](https://gist.github.com/johnaslani/ce3645a10c92f4c22c5dc824fb05f6ca)
 
 
 ## Questions
